@@ -1,2 +1,2 @@
-# mihdan-yandex-webmaster
-WordPress-плагин для работы с Yandex Webmaster
+# Mihdan: Yandex Webmaster
+WordPress-плагин для работы с [Yandex Webmaster](https://tech.yandex.ru/webmaster/)
